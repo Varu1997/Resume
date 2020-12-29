@@ -1,0 +1,43 @@
+body{
+     background-image: url(bubble@.jpeg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: scroll;
+     padding:5px;
+}
+h1{
+    font-family: 'Aladin', cursive;
+    color:#000535;
+    font-size:xx-large;
+}
+h3{
+    font-family: 'Aladin', cursive;
+    font-size:x-large;
+}
+p{
+    font-size: larger;
+}
+li{
+    font-size: larger;
+    line-height: 30px;
+}
+b{
+    color:#000B45;
+    font-size: large;
+}
+a{
+    color: red;
+    font-style: normal;
+}
+.class1, .class1 tr, .class1 td, .class1 th{
+    border:2px solid white;
+    border-collapse: collapse ;
+    padding: 20px;
+}
+.class1 th{
+    font-family: 'Aladin', cursive;
+    font-size: larger;
+}
+.class1 td{
+    font-size:large;
+}
